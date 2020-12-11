@@ -1,0 +1,19 @@
+Ветка master имеет более сложное строение.
+
+22:56	Merged origin/boots to boots_buttons (show balloon)
+
+22:59	Merged origin/buttons to boots_buttons (show balloon)
+
+23:00	Already up-to-date
+
+23:01	Merged origin/hat to boots_buttons (show balloon)
+
+23:02	Checked out master (show balloon)
+
+23:02	Workspace associated with branch 'master' has been restored
+			Rollback   Configure...
+
+23:02	Merged origin/hat to master (show balloon)
+
+23:03	Merged boots_buttons to master
+			Delete boots_buttons (show balloon)
